@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou no meu Primeiro ano trabalhando como desenvolvedor está sendo incrivel !
-- 🌱 Cursando Engenharia da Computacao - UNIFEV - Votuporanga/SP - Turma 2018 !
+- 🌱 Cursando Engenharia da Computacao - UNIFEV - Votuporanga/SP - Turma 2018 -2022!
 - 📜 <a href="https://github.com/pedro-emanoeltech?tab=repositories" target="_blank" rel="external">Meu Portifólio</a></br>
 
 
